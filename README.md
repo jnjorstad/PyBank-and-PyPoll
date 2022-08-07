@@ -8,4 +8,3 @@ In PyPoll, I have writtena script that reads and analyzes the set of poll data. 
 # Technologies
 Python 
 
-# Preview
