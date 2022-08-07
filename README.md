@@ -1,4 +1,4 @@
-# Python-Challenge-Final2
+# PyBank and PyPoll
 In this folder, I have two python files: PyBank and PyPoll
 
 In PyBank, I have written a script that reads and analyzes the set of financial data. I have calculated the total number of months, the net total of profits/losses over the entire period, the average change of the profits/losses, the greatest increase in profits, and the greatest decrease in profits. 
